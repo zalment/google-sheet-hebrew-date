@@ -5,7 +5,8 @@ use this as a script in google sheets to convert a gregorian date to a hebrew da
 ## Getting Started
 
 open the sheet where you want to use this function go to tools > script editer
-delete the current text and paste the text of heb_date.gs
+delete the current text and paste the text of heb_date.gs  
+**save the file**
 
 ## how to use
 enter the function HEB_DATE and give the first argument as a date and add more arguments for whatever you want to return  
