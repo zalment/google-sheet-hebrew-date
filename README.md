@@ -23,4 +23,4 @@ any symbol or character you want to be added to return
 ## sample
 =HEB_DATE(DATE(2021,9,16),"date","month","-","yearAbbr") will return "י׳ תשרי - פ״ב "
   
-=HEB_DATE(TODAY(),"day","לסדר","parsha")
+=HEB_DATE(TODAY(),"day","parsha")
